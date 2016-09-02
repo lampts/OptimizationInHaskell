@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the '101' target in the '101' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
